@@ -1,0 +1,11 @@
+[package]
+name = "blog"
+version = "0.1.0"
+authors = ["Mitchell Bruckner <mbruckner807@gmail.com>"]
+
+[dependencies]
+iron="0.3.0"
+router="*"
+markdown="0.1"
+handlebars-iron="0.15"
+rustc-serialize="0.3"
